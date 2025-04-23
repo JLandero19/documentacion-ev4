@@ -1,0 +1,51 @@
+---
+title: Guía del usuario eV4
+description: Ayudar a los usuarios a moverse por eV4
+template: splash
+hero:
+  tagline: Instrucciones y funcionalidades
+  image:
+    file: ../../assets/ximg_1.png
+  actions:
+    - text: Ir a eV4
+      link: https://ev4erp.net/
+      icon: right-arrow
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+import { LinkCard } from '@astrojs/starlight/components';
+
+<LinkCard
+	title="Explorar documentos"
+	href="./primerospasos/01_configurar_crm"
+/>
+
+<CardGrid stagger>
+	<Card title="Primeros pasos">
+		[Descubrir más](primerospasos/01_configurar_crm)
+	</Card>
+	<Card title="Tips" >
+		[Descubrir más](./tips/1-creararticulo/)
+	</Card>
+	<Card title="Tu empresa">
+		[Descubrir más](./tuempresa/01configuracion_empresa_auto/)
+	</Card>
+	<Card title="Cómo importar mis datos">
+		[Descubrir más](./importardatos/01pagina/)
+	</Card>
+	<Card title="Mi primer presupuesto">
+		[Descubrir más](./primerpresupuesto/pagina1/)
+	</Card>
+	<Card title="Mi primera factura">
+		[Descubrir más](./primerafactura/01-rectificarfactura/)
+	</Card>
+	<Card title="Bancos">
+		[Descubrir más](./bancos/1_bancos/)
+	</Card>
+	<Card title="Artículos">
+		[Descubrir más](./articulos/01-tipscreararticulo/)
+	</Card>
+	<Card title="Contabilidad">
+		[Descubrir más](./contabilidad/1_alta_articulo/)
+	</Card>
+</CardGrid>
