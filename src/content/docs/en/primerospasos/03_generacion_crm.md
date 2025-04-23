@@ -82,6 +82,6 @@ The creation and tracking of budgets in the eV4 CRM is a straightforward but pow
 
 ## Recommended Readings
 
-- [Getting Started with the CRM Module in eV4](./01_config_crm)
-- [Managing Opportunities and Leads in eV4](../firstbudget/page4)
+- [Getting Started with the CRM Module in eV4](./01_configurar_crm)
+- [Managing Opportunities and Leads in eV4](../primerpresupuesto/pagina4)
 

@@ -97,5 +97,5 @@ The eV4 CRM agenda is a powerful tool for planning and tracking commercial tasks
 
 ## Recommended Readings
 
-- [Getting Started with the eV4 CRM Module](../01_config_crm)
-- [Managing Leads and Opportunities in eV4 ERP](../firstbudget/page4)
+- [Getting Started with the eV4 CRM Module](../01_configurar_crm)
+- [Managing Leads and Opportunities in eV4 ERP](../primerpresupuesto/pagina4)

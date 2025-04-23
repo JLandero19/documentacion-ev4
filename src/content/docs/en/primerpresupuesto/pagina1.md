@@ -47,5 +47,5 @@ description: Creation of a quote
 - It is possible to generate quotes for multiple vehicles at once.  
 
 ## Additional Resources  
-- Refer to the section **[Creating a New Vehicle with Optional Packs](/firstbudget/page7/)** for more information on configuring optional packs.  
+- Refer to the section **[Creating a New Vehicle with Optional Packs](http://localhost:4321/primerpresupuesto/pagina7/)** for more information on configuring optional packs.  
 - Review the system documentation for detailed information on quote management.

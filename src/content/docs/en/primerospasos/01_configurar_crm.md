@@ -83,6 +83,6 @@ Proper configuration of the eV4 CRM module allows you to efficiently manage lead
 
 ## Recommended Readings
 
-- [Opportunity Management in eV4 ERP](../firstbudge/page4)
-- [Generation and Follow-up of Budgets in the eV4 CRM Module](./03_generation_crm)
+- [Opportunity Management in eV4 ERP](../primerpresupuesto/pagina4)
+- [Generation and Follow-up of Budgets in the eV4 CRM Module](./03_generacion_crm)
 

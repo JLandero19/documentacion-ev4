@@ -102,5 +102,5 @@ These colors provide clear control over the rental workflow and status.
 The agenda in **eV4 CRM** is a powerful tool for planning and tracking commercial tasks and opportunities. The use of colors improves visual clarity, allowing you to quickly identify the status of each ongoing opportunity or task. By leveraging synchronization, reminders, and agenda customization features, sales teams can manage their activities more efficiently, ensuring each opportunity is handled optimally from the first contact to closing.
 
 ## Recommended Readings
-- **[First Steps in the eV4 CRM Module](/firststeps/01_config_crm/)**
+- **[First Steps in the eV4 CRM Module](http://localhost:4321/primerospasos/01_configurar_crm/)**
 - **[Managing Leads and Opportunities in eV4 ERP](#)**  
