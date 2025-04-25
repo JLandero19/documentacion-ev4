@@ -7,6 +7,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Software eV4',
+			customCss: [
+				// Relative path to your custom CSS file
+				'./src/styles/custom.css',
+			],
 			logo: {
 				src: './src/assets/logo-ev4.webp',
 			},
@@ -16,7 +20,6 @@ export default defineConfig({
 					translations: {
 						en: 'First Steps',
 					},
-					collapsed: true,
 					autogenerate: {
 						directory: 'primerospasos',
 						collapsed: true,
@@ -91,7 +94,10 @@ export default defineConfig({
 			locales: {
 				root: { label: "Español", lang: "es" },
 				en: { label: "English", lang: "en" },
-			},			
+			},	
 		}),
 	],
+	redirects: {
+		"/es": "/",
+	}
 });
